@@ -1,0 +1,33 @@
+header {
+    background-color: blue;
+}
+
+header h1 {
+    margin: 0;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+	text-align: center;
+	color: #330b02;
+}
+
+h2 {
+	color: pink;
+}
+
+section {
+	background-color: #29969F
+}
+
+aside {
+	display: none;
+}
+
+a {
+	color: #FF0000;
+}
